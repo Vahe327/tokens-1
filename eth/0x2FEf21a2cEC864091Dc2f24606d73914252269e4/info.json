@@ -1,0 +1,11 @@
+{
+    "name": "DEBcoin Token",
+    "website": "https://debcoin.io",
+    "description": "Debcoin token is focused on building bridges between the physical business and the crypto industry. Debcoin is backed by well-known companies from various industries with global names and brands, including a large mining farm.",
+    "explorer": "https://etherscan.io/token/0x2FEf21a2cEC864091Dc2f24606d73914252269e4",
+    "type": "ERC20",
+    "symbol": "DEB",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x2FEf21a2cEC864091Dc2f24606d73914252269e4"
+}
